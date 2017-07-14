@@ -8,9 +8,10 @@
 >>problems
 >>>|题目描述|题目来源|
 >>>|[数组划分](./problems/1.txt)|
+>>>...
 ---
 >>solutions
 >>>|题目|文件名|提交作者|
->>>| 数组划分 | [1.h](./solutions/1.h) | Sansan、| 
+>>>| 数组划分 |[1.h](./solutions/1.h) | Sansan、| 
 >>>....
 >
