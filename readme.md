@@ -7,7 +7,7 @@
 >ProgrammingTest
 >>problems
 >>>|题目描述|题目来源|       
->>>|[数组划分](./problems/1.txt)|        
+>>>|[数组划分](./problems/1.txt)|....|        
 >>>....                                              
 ---
 >>solutions
