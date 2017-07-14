@@ -13,7 +13,7 @@ public:
 	Solution():minVal(0xffffff){}
 public:
 	/*
-	p个隔板划分n个数的问题,最优划分使得隔板之间的数字之和最小
+	p个隔板划分n个数的问题,最优划分使得隔板之间的数字之和最小,任意两个隔板之间至少存在一个数字,其中n>=p。
 	*/
 	void dfs(vector<int>& nums,int box,int pos,int maxVal)
 	{
