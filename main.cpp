@@ -1,4 +1,4 @@
-#include "./2017CompanyTest/1.h"
+#include "./solutions/1.h"
 int main()
 {
 	Solution::solved();
